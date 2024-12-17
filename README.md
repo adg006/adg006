@@ -52,7 +52,7 @@ I’m a Web Developer with **5+ years of experience**, primarily working with **
 
 ### 📫 Let's Connect
 
-- **LinkedIn:** [LinkedIn Profile](https://in.linkedin.com/in/adg006)
+- **LinkedIn:** [Click to connect](https://in.linkedin.com/in/adg006)
 
 ---
 

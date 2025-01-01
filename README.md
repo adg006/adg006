@@ -1,18 +1,3 @@
-<!--
-**adg006/adg006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hello, I'm Arindam Das Gupta 👋
 
 I’m a Web Developer with **5+ years of experience**, primarily working with **WordPress**.
@@ -20,6 +5,7 @@ I’m a Web Developer with **5+ years of experience**, primarily working with **
 ---
 
 ### 👨‍💻 About Me
+
 - 💼 Currently working as a backend developer specializing in **WordPress**
 - 📚 Expanding my knowledge in **scalable backend architectures** and **full-stack development**
 - 🌍 Based in **Kolkata**
@@ -32,7 +18,8 @@ I’m a Web Developer with **5+ years of experience**, primarily working with **
   ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
   ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+  ![ReactJS](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+  ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
 
 - **Databases:**  
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
@@ -51,10 +38,15 @@ I’m a Web Developer with **5+ years of experience**, primarily working with **
 
 ---
 
-### 📫 Let's Connect
+### 🌟 Achievements
 
-- **LinkedIn:** [Click to connect](https://in.linkedin.com/in/adg006)
+- **Top WordPress Developer** on XYZ platform
+- **Featured** in ABC magazine
 
 ---
 
-Thanks for stopping by! Looking forward to collaborating and building impactful projects together.
+### 📬 Contact
+
+- **Email**: arindamdasgupta6@gmail.com
+- **LinkedIn**: [Arindam Das Gupta](https://www.linkedin.com/in/adg006)
+

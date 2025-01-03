@@ -38,13 +38,6 @@ I’m a Web Developer with **5+ years of experience**, primarily working with **
 
 ---
 
-### 🌟 Achievements
-
-- **Top WordPress Developer** on XYZ platform
-- **Featured** in ABC magazine
-
----
-
 ### 📬 Contact
 
 - **Email**: arindamdasgupta6@gmail.com

@@ -1,14 +1,14 @@
 # Hello, I'm Arindam Das Gupta 👋
 
-I’m a Web Developer with **5+ years of experience**, primarily working with **WordPress**.
+I am a qualified and professional web developer with five years of experience in WordPress custom theme and plugin development, also created APIs in custom PHP, did some projects in React, Next and Express, working experience in lead generation tools like LeadsHook, GoHighLevel, LeadByte, Make, etc, and also in tracking tools.
 
 ---
 
 ### 👨‍💻 About Me
 
-- 💼 Currently working as a backend developer specializing in **WordPress**
-- 📚 Expanding my knowledge in **scalable backend architectures** and **full-stack development**
-- 🌍 Based in **Kolkata**
+- 💼 Qualified and professional web developer with five years of experience in **WordPress** custom theme and plugin development"
+- 📚 Exploring **scalable backend architectures** and gaining hands-on experience in **full-stack development** with **React**, **Next.js**, and **Express**
+- 🌍 Based in **Kolkata**, open to **remote opportunities**
 
 ---
 
@@ -18,11 +18,14 @@ I’m a Web Developer with **5+ years of experience**, primarily working with **
   ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
   ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-  ![ReactJS](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+  ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat)
   ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
 
 - **Databases:**  
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 
 - **Frontend & Tools:**  
   ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=flat)

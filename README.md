@@ -14,24 +14,28 @@ I am a qualified and professional web developer with five years of experience in
 
 ### 🛠️ My Tech Stack
 
-- **Languages & Frameworks:**  
+- **Languages:**  
   ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
-  ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+
+- **Frameworks & Libraries:**  
+  ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+  ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
   ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
   ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat)
-  ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
 
 - **Databases:**  
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 
-- **Frontend & Tools:**  
-  ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=flat)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+- **Tools & Platforms:**  
+  ![Make](https://img.shields.io/badge/-Make-000000?logo=make&logoColor=white&style=flat)
+  ![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?logo=zapier&logoColor=white&style=flat)
+  ![LeadsHook](https://img.shields.io/badge/-LeadsHook-0A0A0A?style=flat&logoColor=white)
+  ![GoHighLevel](https://img.shields.io/badge/-GoHighLevel-1D6F42?style=flat&logoColor=white)
+  ![LeadByte](https://img.shields.io/badge/-LeadByte-0033A0?style=flat&logoColor=white)
 
 ---
 
